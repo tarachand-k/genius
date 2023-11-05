@@ -1,0 +1,6 @@
+.container {
+  @apply flex h-screen;
+  background: url("/img/background3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
